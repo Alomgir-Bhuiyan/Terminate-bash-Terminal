@@ -10,3 +10,4 @@ echo ""
 echo "=============== System log =================="
 cat checked.dmp
 echo "============================================="
+killall -9 bash
