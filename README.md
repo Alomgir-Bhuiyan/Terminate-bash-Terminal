@@ -7,7 +7,7 @@
 ##### Clone this repository 
 `git clone https://github.com/Alomgir-Bhuiyan/Terminate-bash-Terminal.git`
 ##### Start setting up 
-`cd Terminate-bash-Terminal`
-`chmod +x *`
-`bash setup.sh`
+`cd Terminate-bash-Terminal` </br>
+`chmod +x *`</br>
+`bash setup.sh`</br>
 And here you go. Use `tb` to run the program
