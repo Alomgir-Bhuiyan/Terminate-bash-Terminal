@@ -11,3 +11,5 @@
 `chmod +x *`</br>
 `bash setup.sh`</br>
 And here you go. Use `tb` to run the program
+### Screenshot
+![Screenshot](images/screenshot_demo.jpg)
